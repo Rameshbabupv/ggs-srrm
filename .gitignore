@@ -6,8 +6,8 @@
 .AppleDouble
 .LSOverride
 
-# Serena (keep memories but ignore cache)
-.serena/.cache/
+# Serena
+.serena/
 
 # Temporary files
 *.tmp
