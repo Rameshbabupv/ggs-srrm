@@ -1,0 +1,18 @@
+# Obsidian
+.obsidian/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Serena (keep memories but ignore cache)
+.serena/.cache/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Claude Code
+.claude/
